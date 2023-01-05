@@ -177,4 +177,7 @@ nav li a {
   width: 1140px;
   margin-left: 230px;
 }
+.resume-container {
+  display: flex;
+}
 /* What I do section styles end  */

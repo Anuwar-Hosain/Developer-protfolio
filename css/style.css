@@ -209,5 +209,49 @@ nav li a {
 }
 .resume-btn {
   text-align: center;
+  margin-bottom: 110px;
 }
 /* What I do section styles end  */
+/* Contact section start */
+.socail-contact {
+  background: #fff8f3;
+}
+.socail-contact-items {
+  display: flex;
+  width: 1140px;
+  margin-left: 230px;
+  justify-content: space-between;
+  padding-top: 130px;
+  padding-bottom: 130px;
+}
+.socail-item-title {
+  font-weight: 700;
+  font-size: 35px;
+  color: #181818;
+  margin-bottom: 20px;
+}
+.socail-item-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #474747;
+  margin-bottom: 30px;
+}
+.socail-item a {
+  text-decoration: none;
+  margin-right: 24px;
+}
+.contact input[type="text"],
+input[type="email"],
+textarea {
+  margin-bottom: 24px;
+  width: 100%;
+  border: none;
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+  padding: 18px 30px;
+}
+.contact input {
+  height: 64px;
+}
+/* Contact section end */
